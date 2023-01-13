@@ -35,14 +35,16 @@ January 3: Initial Assessments
 </details>
 <details><summary>January 10: Fast and Slow Pointers</summary>
 
-  [Class Video](https://drive.google.com/drive/folders/1PQpoNWOR62M68n04mnQLYQq3VKV5g63P?usp=share_link)
+  [Class Video](https://drive.google.com/file/d/1B7BhEqEYofFGU_hP94_bWyzbHncZhBRr/view?usp=share_link)
+  [Office Hour](https://drive.google.com/file/d/1KkZiX0wDMsX8gn3ew2v6JvW620RNDbSY/view?usp=share_link)
 
 </details>
 <details><summary>January 11: Cyclic Sort</summary>
   
   [Class Slides](https://docs.google.com/presentation/d/1RcvB-xrriaDVY_LZRYVCW1NlF1Q91GoZr65Vh16b784/edit?usp=share_link)
  
-  [Class Video](https://drive.google.com/drive/folders/1mRjGmZnkXzYOk53wRs4Yt91alkXfC3PY?usp=share_link)
+  [Class Video part I](https://drive.google.com/file/d/1-5SKLBj16NmetUq_RWBVmgtWaczHLMbt/view?usp=share_link)
+  [Class Video part II](https://drive.google.com/file/d/1-SjqZo1BucwKm7oVPiUGYAKLw06_9zkk/view?usp=share_link)
   
   [Big-O Practice](https://gist.github.com/davidlawrencer/246bfa203d62c269c11ec20438b74785)
   
@@ -53,7 +55,8 @@ January 3: Initial Assessments
   
   [Class Slides](https://docs.google.com/presentation/d/1yhaLydk3ABkNxxhAmh4IL3-auLXa0_cN0ynDeisfaSg/edit?usp=share_link)
   
-  [Class Video](https://drive.google.com/drive/folders/1mRjGmZnkXzYOk53wRs4Yt91alkXfC3PY?usp=share_link)
+  [Class Video Part I](https://drive.google.com/file/d/1BKEnu4vF9dyyum_qDOXdPLHd0YO698Nq/view?usp=share_link)
+  [Class Video Part II](https://drive.google.com/file/d/1RTW6do1kAhp58H-tD_NpIrzJUqIepnO1/view?usp=share_link)
   
   [Sliding Window: Diagrammed and Solved!](https://excalidraw.com/#room=ca37176227aca813fba9,TzolLU9s1FBYs4NCD3VB_A)
   
