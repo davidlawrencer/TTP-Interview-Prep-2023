@@ -7,6 +7,7 @@ January 3: Initial Assessments
 <details><summary>January 4: Introduction to Interviewing</summary>
 
   [Class Slides](https://docs.google.com/presentation/d/1mRM71LcEYweBRatGRfUejm9U1F9Qz0o_wkMOM_ijDB8/edit?usp=share_link)
+
   [Class Video]()
 
 </details>
@@ -34,12 +35,14 @@ January 3: Initial Assessments
 <details><summary>January 11: Cyclic Sort</summary>
   
   [Class Slides](https://docs.google.com/presentation/d/1RcvB-xrriaDVY_LZRYVCW1NlF1Q91GoZr65Vh16b784/edit?usp=share_link)
+
   [Class Video]()
   
 </details>
 <details><summary>January 12: Sliding Window technique</summary>
   
   [Class Slides](https://docs.google.com/presentation/d/1yhaLydk3ABkNxxhAmh4IL3-auLXa0_cN0ynDeisfaSg/edit?usp=share_link)
+  
   [Class Video]()
   
 </details>
