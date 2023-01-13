@@ -9,6 +9,8 @@ January 3: Initial Assessments
   [Class Slides](https://docs.google.com/presentation/d/1mRM71LcEYweBRatGRfUejm9U1F9Qz0o_wkMOM_ijDB8/edit?usp=share_link)
 
   [Class Video]()
+  
+  [Interview Question Demo Code](https://gist.github.com/davidlawrencer/8e66b3b4431998d7f3ef4ba6c5d82c80)
 
 </details>
 <details><summary>January 5: Complexity and Big-O</summary>
@@ -16,6 +18,10 @@ January 3: Initial Assessments
   [Class Slides](https://docs.google.com/presentation/d/1j-0obqOE2mPE8utJ9zqyFptj1KyGFIsg9gDnt7pvtbg/edit?usp=share_link)
   
   [Class Video]()
+ 
+  [Sample Big-O Analysis](https://gist.github.com/davidlawrencer/aadddd79213aed8a6da6b96d5a7e9c44)
+  
+  [Big-O Cheatsheet](bigocheatsheet.com)
 
 </details>
 
@@ -35,8 +41,10 @@ January 3: Initial Assessments
 <details><summary>January 11: Cyclic Sort</summary>
   
   [Class Slides](https://docs.google.com/presentation/d/1RcvB-xrriaDVY_LZRYVCW1NlF1Q91GoZr65Vh16b784/edit?usp=share_link)
-
+ 
   [Class Video]()
+  
+  [Big-O Practice](https://gist.github.com/davidlawrencer/246bfa203d62c269c11ec20438b74785)
   
 </details>
 <details><summary>January 12: Sliding Window technique</summary>
@@ -72,5 +80,7 @@ Treat your brain like a computer: there is only so much that fits in our working
 Here are some practice resources that offer more information and paths than simply trying Leetcode. You won't need to master every question, but make sure you know your way around the big topics!
 
 [A Sample Roadmap](https://neetcode.io/roadmap)
+
 [Advent of Code](https://adventofcode.com/)
+
 [Some Challenging Algorithms](https://austinhenley.com/blog/challengingalgorithms.html)
