@@ -46,12 +46,16 @@ January 3: Initial Assessments
   
   [Big-O Practice](https://gist.github.com/davidlawrencer/246bfa203d62c269c11ec20438b74785)
   
+  [Cyclic Sort: Diagrammed and Solved!](https://excalidraw.com/#room=e8ffe559a5f1a597b2f0,JdtSie5uKzy2E9W6fT0UBQ)
+  
 </details>
-<details><summary>January 12: Sliding Window technique</summary>
+<details><summary>January 12: Sliding Window</summary>
   
   [Class Slides](https://docs.google.com/presentation/d/1yhaLydk3ABkNxxhAmh4IL3-auLXa0_cN0ynDeisfaSg/edit?usp=share_link)
   
   [Class Video]()
+  
+  [Sliding Window: Diagrammed and Solved!](https://excalidraw.com/#room=ca37176227aca813fba9,TzolLU9s1FBYs4NCD3VB_A)
   
 </details>
 
@@ -68,6 +72,8 @@ January 19: K-Frequent Pattern
 January 20: Review class (Optional)
 
 ## Study Materials
+
+### It's a Secret; Don't read until January 23rd!
 
 Class might be over, but this is just the beginning of your prep!
 
