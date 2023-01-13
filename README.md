@@ -10,7 +10,7 @@ January 3: Initial Assessments
 
   [Class Video]()
   
-  [Interview Question Demo Code](https://gist.github.com/davidlawrencer/8e66b3b4431998d7f3ef4ba6c5d82c80)
+  [Interview Demo Code](https://gist.github.com/davidlawrencer/8e66b3b4431998d7f3ef4ba6c5d82c80)
 
 </details>
 <details><summary>January 5: Complexity and Big-O</summary>
