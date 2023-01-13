@@ -8,7 +8,7 @@ January 3: Initial Assessments
 
   [Class Slides](https://docs.google.com/presentation/d/1mRM71LcEYweBRatGRfUejm9U1F9Qz0o_wkMOM_ijDB8/edit?usp=share_link)
 
-  [Class Video]()
+  [Class Video](https://drive.google.com/file/d/1lPmzb0Vch9PlJelp4dV5RPVMk2BNs68f/view?usp=sharing)
   
   [Interview Demo Code](https://gist.github.com/davidlawrencer/8e66b3b4431998d7f3ef4ba6c5d82c80)
 
@@ -17,7 +17,7 @@ January 3: Initial Assessments
 
   [Class Slides](https://docs.google.com/presentation/d/1j-0obqOE2mPE8utJ9zqyFptj1KyGFIsg9gDnt7pvtbg/edit?usp=share_link)
   
-  [Class Video]()
+  [Class Video](https://drive.google.com/drive/folders/1DK5Y61jgS9kaw12ald2CSz4pEcUG8tMD?usp=share_link)
  
   [Sample Big-O Analysis](https://gist.github.com/davidlawrencer/aadddd79213aed8a6da6b96d5a7e9c44)
   
@@ -30,19 +30,19 @@ January 3: Initial Assessments
 
 <details><summary>January 9: Interview Prep</summary>
 
-  [Class Video]()
+  [Class Video](https://drive.google.com/drive/folders/1DK5Y61jgS9kaw12ald2CSz4pEcUG8tMD?usp=share_link)
 
 </details>
 <details><summary>January 10: Fast and Slow Pointers</summary>
 
-  [Class Video]()
+  [Class Video](https://drive.google.com/drive/folders/1PQpoNWOR62M68n04mnQLYQq3VKV5g63P?usp=share_link)
 
 </details>
 <details><summary>January 11: Cyclic Sort</summary>
   
   [Class Slides](https://docs.google.com/presentation/d/1RcvB-xrriaDVY_LZRYVCW1NlF1Q91GoZr65Vh16b784/edit?usp=share_link)
  
-  [Class Video]()
+  [Class Video](https://drive.google.com/drive/folders/1mRjGmZnkXzYOk53wRs4Yt91alkXfC3PY?usp=share_link)
   
   [Big-O Practice](https://gist.github.com/davidlawrencer/246bfa203d62c269c11ec20438b74785)
   
@@ -53,7 +53,7 @@ January 3: Initial Assessments
   
   [Class Slides](https://docs.google.com/presentation/d/1yhaLydk3ABkNxxhAmh4IL3-auLXa0_cN0ynDeisfaSg/edit?usp=share_link)
   
-  [Class Video]()
+  [Class Video](https://drive.google.com/drive/folders/1mRjGmZnkXzYOk53wRs4Yt91alkXfC3PY?usp=share_link)
   
   [Sliding Window: Diagrammed and Solved!](https://excalidraw.com/#room=ca37176227aca813fba9,TzolLU9s1FBYs4NCD3VB_A)
   
