@@ -52,8 +52,11 @@ January 13: Review class (Optional)
 ### Week 3: January 17 - 20
 
 January 17: Merge Intervals
+
 January 18: Tree-Searching Algorithms
+
 January 19: K-Frequent Pattern
+
 January 20: Review class (Optional)
 
 ## Study Materials
