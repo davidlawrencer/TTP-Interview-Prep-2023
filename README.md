@@ -65,6 +65,7 @@ January 3: Initial Assessments
 January 13: Review class (Optional)
 
 ### Week 3: January 17 - 20
+  [Class Video](https://drive.google.com/file/d/11iWvihaxCONn2xqCMDb2XmDuyu72Gvvx/view?usp=sharing)
 
 January 17: Merge Intervals
 
