@@ -67,11 +67,8 @@ January 13: Review class (Optional)
 ### Week 3: January 17 - 20
 
 January 17: Merge Intervals
-<details><summary>January 9: Interview Prep</summary>
 
-    [Class Video](https://drive.google.com/file/d/11iWvihaxCONn2xqCMDb2XmDuyu72Gvvx/view?usp=sharing)
-
-</details>
+  [Class Video](https://drive.google.com/file/d/11iWvihaxCONn2xqCMDb2XmDuyu72Gvvx/view?usp=sharing)
 
 January 18: Tree-Searching Algorithms
 
