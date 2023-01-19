@@ -71,6 +71,7 @@ January 17: Merge Intervals
   [Class Video](https://drive.google.com/file/d/11iWvihaxCONn2xqCMDb2XmDuyu72Gvvx/view?usp=sharing)
 
 January 18: Tree-Searching Algorithms
+  [Class Video](https://drive.google.com/file/d/1vGVB_NdvvF3hVuEv0CkxC75ZO_oqSDpN/view?usp=sharing)
 
 January 19: K-Frequent Pattern
 
