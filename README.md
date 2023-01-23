@@ -74,6 +74,7 @@ January 18: Tree-Searching Algorithms
   [Class Video](https://drive.google.com/file/d/1vGVB_NdvvF3hVuEv0CkxC75ZO_oqSDpN/view?usp=sharing)
 
 January 19: K-Frequent Pattern
+  [Class Video](https://drive.google.com/file/d/1MD7ytlodXkRFdV5iCdg7lGr413WG5xkA/view?usp=share_link)
 
 January 20: Review class (Optional)
 
