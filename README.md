@@ -9,6 +9,7 @@ January 3: Initial Assessments
 | Day | Topic | Slides | Recording | Code | Useful Links and Such |
 |-----|-------|--------|-----------|-----------------------|------|
 | January 4 | Introduction to Interviewing |   [Class Slides](https://docs.google.com/presentation/d/1mRM71LcEYweBRatGRfUejm9U1F9Qz0o_wkMOM_ijDB8/edit?usp=share_link) | [:tv:](https://drive.google.com/file/d/1lPmzb0Vch9PlJelp4dV5RPVMk2BNs68f/view?usp=sharing) |   [Interview Demo Code](https://gist.github.com/davidlawrencer/8e66b3b4431998d7f3ef4ba6c5d82c80) | TBD |
+|-----|-------|--------|-----------|-----------------------|------|
 
 | January 5 | Complexity and Big-O |   [Class Slides](https://docs.google.com/presentation/d/1j-0obqOE2mPE8utJ9zqyFptj1KyGFIsg9gDnt7pvtbg/edit?usp=share_link) |   [Class Video](https://drive.google.com/drive/folders/1DK5Y61jgS9kaw12ald2CSz4pEcUG8tMD?usp=share_link) |   [Sample Big-O Analysis](https://gist.github.com/davidlawrencer/aadddd79213aed8a6da6b96d5a7e9c44) 
   
