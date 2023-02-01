@@ -4,7 +4,8 @@
 ### Week 1: January 3 - 5
 
 January 3: Initial Assessments
-<details><summary>January 4: Introduction to Interviewing</summary>
+
+<!-- <details><summary>January 4: Introduction to Interviewing</summary> -->
 | Day | Topic | Slides | Recording | Code | Useful Links and Such |
 |-----|-------|--------|-----------|-----------------------|------|
 | January 4 | Introduction to Interviewing |   [Class Slides](https://docs.google.com/presentation/d/1mRM71LcEYweBRatGRfUejm9U1F9Qz0o_wkMOM_ijDB8/edit?usp=share_link) | [:tv:](https://drive.google.com/file/d/1lPmzb0Vch9PlJelp4dV5RPVMk2BNs68f/view?usp=sharing) |   [Interview Demo Code](https://gist.github.com/davidlawrencer/8e66b3b4431998d7f3ef4ba6c5d82c80) | TBD |
