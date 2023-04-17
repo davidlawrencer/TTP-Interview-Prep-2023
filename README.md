@@ -68,10 +68,14 @@ January 13: Review class (Optional)
 
 January 17: Merge Intervals
 
-  [Class Video](https://drive.google.com/file/d/11iWvihaxCONn2xqCMDb2XmDuyu72Gvvx/view?usp=sharing)
+[Class Video](https://drive.google.com/file/d/11iWvihaxCONn2xqCMDb2XmDuyu72Gvvx/view?usp=sharing)
 
-January 18: Tree-Searching Algorithms
-  [Class Video](https://drive.google.com/file/d/1vGVB_NdvvF3hVuEv0CkxC75ZO_oqSDpN/view?usp=sharing)
+<details><summary>January 18: Tree-Searching Algorithms</summary>
+
+[Class Code](https://replit.com/@davidlrifkin/WoodenUsefulMethods#index.js)
+[Class Video](https://drive.google.com/file/d/1vGVB_NdvvF3hVuEv0CkxC75ZO_oqSDpN/view?usp=sharing)
+
+</details>
 
 January 19: K-Frequent Pattern
   [Class Video](https://drive.google.com/file/d/1MD7ytlodXkRFdV5iCdg7lGr413WG5xkA/view?usp=share_link)
